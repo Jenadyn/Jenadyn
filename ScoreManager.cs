@@ -15,6 +15,4 @@ public class ScoreManager : MonoBehaviour
         scorePlayerText.text = Convert.ToString(scorePlayer);
         scoreBotText.text = Convert.ToString(scoreBot);
     }
-    
-    //Test
 }
